@@ -1,0 +1,7 @@
+<wpml-config>
+    <admin-texts>
+        <key name="seomun_get_opt">
+            <key name="footer_copyright" />
+        </key>
+    </admin-texts>
+</wpml-config>
